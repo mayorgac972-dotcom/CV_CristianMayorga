@@ -8,7 +8,6 @@
 - **Teléfono:** 3197228049
 - **Email:** (mayorgac972@gmail.com)
 - **LinkedIn:** (https://www.linkedin.com/in/cristian-mayorga)
-
 ## 🏢 Experiencia Laboral
 ### **SENA** _(2025 - Actualidad)_
 - Aprendis en Analisis y desarollo en sofware.
