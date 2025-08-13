@@ -2,7 +2,7 @@
 # Hoja de Vida
 
 ## Cristian David Mayorga Gomez
-**Profesión:** _Analisata y Derrallador en sofware_
+**Profesión:** _Analista y Derrallador en sofware_
 
 ## 📞 Contacto
 - **Teléfono:** 3197228049
@@ -17,9 +17,9 @@
 
 ## 🎓 Educación
 ### **colegio brasilia bosa** _(2024)_
-- Bachiller academico.
+- Bachiller académico.
 
 ## 💡 Habilidades
 - **Pensamiento resolutivo**
-- **Analisis y reflexion**
-- **Comunicacion**
+- **Análisis y reflexión**
+- **Comunicación**
